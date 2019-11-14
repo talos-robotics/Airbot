@@ -8,7 +8,7 @@ A robotic air polution arduino project
 	<title></title>
 	<meta name="generator" content="LibreOffice 6.0.7.3 (Linux)"/>
 	<meta name="created" content="2019-11-12T22:23:17.665000000"/>
-	<meta name="changed" content="2019-11-13T17:44:33.005000000"/>
+	<meta name="changed" content="2019-11-14T21:54:35.351717906"/>
 	<style type="text/css">
 		@page { margin: 0.79in }
 		p { margin-bottom: 0.1in; line-height: 115% }
@@ -20,7 +20,11 @@ A robotic air polution arduino project
 	</style>
 </head>
 <body lang="el-GR" dir="ltr">
+<div title="header">
+	<p style="margin-bottom: 0.2in; line-height: 100%"><br/>
 
+	</p>
+</div>
 <p align="center" style="margin-bottom: 0in; line-height: 100%"><font size="5" style="font-size: 20pt"><b><font size="5" style="font-size: 18pt">Ανάλυση
 ατμοσφαιρικής ρύπανσης με δειγματοληπτικό
 έλεγχο</font> (The Airbot project)</b></font></p>
@@ -353,13 +357,9 @@ A robotic air polution arduino project
 μελετηθούν από τους μαθητές και θα βγουν
 τα αντίστοιχα συμπεράσματα.</font></p>
 <div title="footer">
-	<p style="margin-top: 0.2in; margin-bottom: 0in; line-height: 100%"><img src="The%20Airbot%20project_html_656c7aada2b31226.gif" align="left"/>
-1ο
-	Δημοτικό Σχολείο Μουρνιών		Υπεύθυνος
-	Εκπαιδευτικός</p>
-	<p style="margin-bottom: 0in; line-height: 100%">Δημοτικό
-	Σχολείο Αγροκηπίου	<sdfield type=PAGE subtype=RANDOM format=PAGE>2</sdfield>	Μανούσακας
-	Μανούσος ΠΕ86</p>
+	<p style="margin-top: 0.2in; margin-bottom: 0in; line-height: 100%"><br/>
+
+	</p>
 </div>
 </body>
 </html>
