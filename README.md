@@ -2,6 +2,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
 
+
+
   
   <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 
@@ -22,7 +24,7 @@
     <td>3</td>
     <td>ARDUINO UNO</td>
     <td>75</td>
-    <td>Θα δημιουργηθούν 3 διαφορετικά υποσυστήματα</td>
+    <td>Θα δημιουργηθούν 4 διαφορετικά υποσυστήματα</td>
   </tr>
   <tr align="center">
     <td>1</td>
@@ -276,7 +278,16 @@
 εώς 85</span><span style="font-size: 12pt; color: rgb(0, 0, 0); vertical-align: super;">ο</span><span style="font-size: 12pt; color: rgb(0, 0, 0);">C)
 .</span></li>
 </ul>
+</span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span>
+<h1 style="text-decoration: underline;"><font><font><font><font><font><font><font color="#000000"><font style="font-size: 12pt;" size="3">Τρόπος
+σύνδεσης με το Arduino (εικόνα απο το
+Fritzing)</font></font></font></font></font></font></font></font></h1>
+<img style="width: 1000px; height: 562px;" alt="bme280" src="images/bme280_bb.png" /><br />
 <br />
+<h1 style="text-decoration: underline;"><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font color="#000000"><font style="font-size: 12pt;" size="3">Το πρόγραμμα στο mblock</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></h1>
+
+<img style="width: 714px; height: 441px;" alt="bme" src="images/bme280.png" /><br />
+<span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);">
 
 </span>
 <h2><span style="font-size: 12pt; color: rgb(0, 0, 0);">
@@ -310,7 +321,7 @@
 Πρωτόκολλο Eπικοινωνίας: Χωρίς</big><br />
 <span style="font-size: 12pt; color: rgb(0, 0, 0);">
 <p><big><big><span dir="auto"><span style="font-weight: bold; text-decoration: underline;" /></span></big></big></p>
-</span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" />
+</span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);">
 <h1 style="text-decoration: underline;"><font><font><font color="#000000"><font style="font-size: 12pt;" size="3">Τρόπος
 σύνδεσης με το Arduino (εικόνα απο το
 Fritzing)</font></font></font></font></h1>
@@ -321,8 +332,15 @@ Fritzing)</font></font></font></font></h1>
 
 </span>
 <h2><span style="font-size: 12pt; color: rgb(0, 0, 0);">
-</span></h2><h1 style="text-decoration: underline;"><small><small>Adafruit CCS811
+</span></h2></span></span></span></span>
+<h1 style="text-decoration: underline;"><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font color="#000000"><font style="font-size: 12pt;" size="3">Το πρόγραμμα στο mblock</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></h1>
+
+<span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);">
+<h1 style="text-decoration: underline;"><img style="width: 422px; height: 496px;" alt="dustsensor" src="images/dust%20final.png" /><br />
+</h1>
+<h1 style="text-decoration: underline;"><small><small>Adafruit CCS811
 Air Quality Sensor</small></small></h1>
+
 
 </span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><big><span style="font-weight: normal;">Αυτός ο
 αισθητήρας είναι ένας αισθητήρας αερίων που μπορεί να
@@ -354,7 +372,7 @@ Organic Compound) εντός εύρους από 0 έως 1187 μέρη ανά �
 Διασύνδεση:Ψηφιακή<br />
 
 Πρωτόκολλο Eπικοινωνίας: I2C</small></span></big></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><big><span style="font-weight: normal;"><br />
-</span><span style="font-weight: normal;" /></big><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" />
+</span><span style="font-weight: normal;" /></big><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);">
 <h1 style="text-decoration: underline;"><font><font><font color="#000000"><font style="font-size: 12pt;" size="3">Τρόπος
 σύνδεσης με το Arduino<br />
 </font></font></font></font></h1>
@@ -363,7 +381,11 @@ Organic Compound) εντός εύρους από 0 έως 1187 μέρη ανά �
 </span><br />
 <span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 300px; height: 473px;" alt="ccs811" src="images/ccs811.jpg" /><br />
 <br />
-<br />
+</span></span></span></span></span></span></span></span></span></span></span></span></span>
+<h1 style="text-decoration: underline;"><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font color="#000000"><font style="font-size: 12pt;" size="3">Το πρόγραμμα στο mblock</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></h1>
+
+<img style="width: 413px; height: 451px;" alt="ccs811" src="images/ccs811.png" /><br />
+<span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);">
 </span></span></span><br />
 <h1 style="text-decoration: underline;"><big>MQ 131</big></h1>
 <h1><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></h1>
@@ -397,32 +419,226 @@ Organic Compound) εντός εύρους από 0 έως 1187 μέρη ανά �
 </table>
 <br />
 <span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);">
-</span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" />
+</span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);">
 <h1 style="text-decoration: underline;"><font><font><font color="#000000"><font style="font-size: 12pt;" size="3">Τρόπος
 σύνδεσης με το Arduino </font></font></font></font></h1>
 <img style="width: 1043px; height: 654px;" alt="mq131" src="/images/mq131.jpg" /><br />
 <span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);">
 <br />
-<h1 style="text-decoration: underline;"><font color="#000000"><font style="font-size: 12pt;" size="3">Τι
-μετρήσεις παίρνει;</font></font></h1>
-
-<h1 style="text-decoration: underline;"><font color="#000000"><font style="font-size: 12pt;" size="3">Tι
-τιμές περιμένω να μου επιστρέψει ο
-αισθητήρας;</font></font></h1>
+<br />
+</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span></span></span></span></span>
+<h1 style="text-decoration: underline;"><font><font><font><font><font><font><font color="#000000"><font style="font-size: 12pt;" size="3">Το πρόγραμμα στο mblock<br />
+</font></font></font></font></font></font></font></font></h1>
+<img style="width: 712px; height: 505px;" alt="mq131" src="/images/mq131%20final%20working.png" /><br />
+<span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><br />
 <h1 style="text-decoration: underline;"><font color="#000000"><font style="font-size: 12pt;" size="3">Πώς
 θα αποθηκεύσουμε τα δεδομένα;</font></font></h1>Τα
 δεδομένα θα τα αποθηκεύσουμε χρησιμοποιόντας ένα sd module σε κάθε
-arduino.Ο τρόπος σύνδεσης με το arduino παρουσιάζεται σε κάθε τρόπο
-σύνδεσης αισθητήρα.Αφού συγκεντρώσουμε τα στοιχεία απο όλες τις κάρτες
+arduino.Ο τρόπος σύνδεσης με το arduino παρουσιάζεται παρακάτω. Αφού συγκεντρώσουμε τα στοιχεία απο όλες τις κάρτες
 sd θα τα επεξεργαστούμε συγκεντρωτικά.<br />
 <br />
 
 <h1 style="text-decoration: underline;"><font color="#000000"><font style="font-size: 12pt;" size="3">Τρόπος
 σύνδεσης με το Arduino (εικόνα απο το
-Fritzing)</font></font></h1>
-
-
-</span></span></span></span></span></span></span></span></span></span></span></span></div>
+Fritzing)</font></font></h1><img style="width: 1000px; height: 701px;" alt="sd" src="images/sd_bb.png" /><br />
+<br />
+</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);">
+<h2><small><small><big><big><big><small><small><span style="font-size: 12pt; color: rgb(0, 0, 0);"><big><big><big><span style="font-weight: bold; text-decoration: underline;">Φωτογραφίες<br />
+</span></big></big></big></span></small></small></big></big></big></small></small></h2>
+<span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
+<h1 style="text-decoration: underline;"><font><font><font color="#000000"><font style="font-size: 12pt;" size="3">Η διαδικασία κατασκευής και προγραμματισμού<br />
+</font></font></font></font></h1>
+<br />
+<br />
+<table style="text-align: left; width: 100%;" border="1" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top;"><img style="width: 400px; height: 300px;" alt="im1" src="photos/IMG_20200228_145803.jpg" /></td>
+      <td style="vertical-align: top;"><img style="width: 400px; height: 300px;" alt="im2" src="photos/IMG_20200228_145821.jpg" /></td>
+      <td style="vertical-align: top;"><img style="width: 400px; height: 300px;" alt="im3" src="photos/IMG_20200228_145827.jpg" /></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><img style="width: 400px; height: 300px;" alt="im4" src="photos/IMG_20200228_145841.jpg" /></td>
+      <td style="vertical-align: top;"><img style="width: 400px; height: 300px;" alt="im5" src="photos/IMG_20200228_145852.jpg" /></td>
+      <td style="vertical-align: top;"><img style="width: 400px; height: 300px;" alt="im6" src="photos/IMG_20200228_145919.jpg" /></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><img style="width: 400px; height: 300px;" alt="im7" src="photos/IMG_20200228_145924.jpg" /></td>
+      <td style="vertical-align: top;"><img style="width: 400px; height: 300px;" alt="im8" src="photos/IMG_20200306_143752.jpg" /></td>
+      <td style="vertical-align: top;"><img style="width: 400px; height: 300px;" alt="im9" src="photos/IMG_20200306_143803.jpg" /></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><img style="width: 400px; height: 300px;" alt="im10" src="photos/IMG_20200306_143809.jpg" /></td>
+      <td style="vertical-align: top;"><img style="width: 400px; height: 300px;" alt="im11" src="photos/IMG_20200306_143829.jpg" /></td>
+      <td style="vertical-align: top;"><img style="width: 400px; height: 300px;" alt="im13" src="photos/IMG_20200306_143839.jpg" /></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><img style="width: 400px; height: 300px;" alt="im14" src="photos/IMG_20200306_143842.jpg" /></td>
+      <td style="vertical-align: top;"><img style="width: 250px; height: 333px;" alt="im15" src="photos/IMG_20200306_143848.jpg" /></td>
+      <td style="vertical-align: top;"><img style="width: 250px; height: 333px;" alt="im16" src="photos/IMG_20200306_143930.jpg" /></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><img style="width: 400px; height: 300px;" alt="im17" src="photos/IMG_20200306_143940.jpg" /></td>
+      <td style="vertical-align: top;"><img style="width: 400px; height: 300px;" alt="im18" src="photos/IMG_20200306_143948.jpg" /></td>
+      <td style="vertical-align: top;"><img style="width: 400px; height: 300px;" alt="im19" src="photos/IMG_20200306_144011.jpg" /></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><img style="width: 400px; height: 300px;" alt="im20" src="photos/IMG_20200306_144334.jpg" /></td>
+      <td style="vertical-align: top;"><img src="photos/IMG_20200306_144736.jpg" alt="im22" style="width: 250px; height: 333px;" /></td>
+      <td style="vertical-align: top;"><img style="width: 250px; height: 333px;" alt="im23" src="photos/IMG_20200306_144759.jpg" /></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><img src="photos/IMG_20200306_145453.jpg" alt="im24" style="width: 200px; height: 356px;" /></td>
+      <td style="vertical-align: top;"><img style="width: 250px; height: 333px;" alt="im25" src="photos/IMG_20200306_145520.jpg" /></td>
+      <td style="vertical-align: top;"><img style="width: 250px; height: 333px;" alt="im26" src="photos/IMG_20200306_150749.jpg" /></td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 400px; height: 300px;" alt="im1" src="photos/IMG_20200221_145031.jpg" /></span></span>
+      </td>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 400px; height: 300px;" alt="im1" src="photos/IMG_20200221_145041.jpg" /></span></span>
+      </td>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 400px; height: 300px;" alt="im1" src="photos/IMG_20200221_145049.jpg" /></span></span>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 400px; height: 300px;" alt="im1" src="photos/IMG_20200221_145057.jpg" /></span></span>
+      </td>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 400px; height: 300px;" alt="im1" src="photos/IMG_20200221_145103.jpg" /></span></span>
+      </td>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im1" src="photos/IMG_20200221_145150.jpg" /></span></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><br />
+</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span></span></span></span></span></span>
+<h1 style="text-decoration: underline;"><font><font><font color="#000000"><font style="font-size: 12pt;" size="3">Η τελική κατασκευή</font></font></font></font></h1>
+<br />
+<table style="text-align: left; width: 100%;" border="1" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im1" src="photos/IMG_20200721_114752.jpg" /></span></span>
+      </td>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im1" src="photos/IMG_20200721_120545.jpg" /></span></span></span></span></span>
+      </td>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im1" src="photos/IMG_20200722_174813.jpg" /></span></span></span></span></span>
+      </td>
+      
+      
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im1" src="photos/IMG_20200722_174827.jpg" /></span></span></span></span></span>
+      </td>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im1" src="photos/IMG_20200723_140644.jpg" /></span></span></span></span></span>
+      </td>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im1" src="photos/IMG_20200723_140653.jpg" /></span></span></span></span></span>
+      </td>
+      
+      
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im1" src="photos/IMG_20200723_140719.jpg" /></span></span></span></span></span>
+      </td>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><br />
+</span></span></span></span></span>
+      </td>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><br />
+</span></span></span></span></span>
+      </td>
+      
+      
+    </tr>
+  </tbody>
+</table>
+<br />
+<br />
+</span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);" />
+<h2><small><small><big><big><big><small><small><big><big><big><small><small><big><big><big><small><small><span style="font-size: 12pt; color: rgb(0, 0, 0);"><big><big><big><span style="font-weight: bold; text-decoration: underline;">Μετρήσεις και Αποτελέσματα<br />
+</span></big></big></big></span></small></small></big></big></big></small></small></big></big></big></small></small></big></big></big></small></small></h2>
+Οι μετρήσεις που θα καταγραφούν μέσα στις κάρτες sd θα αποθηκευτούν σε
+ένα αρχείο .csv έτσι ώστε να μπορούμε να τα κάνουμε εισαγωγή με εύκολο
+τρόπο στο πρόγραμμα calc του libre office και να δημιουργήσουμε
+γραφήματα των μετρήσεων.<br />
+<br />
+<table style="text-align: left; width: 100%;" border="1" cellpadding="2" cellspacing="2">
+  <tbody>
+    <tr>
+      <td style="vertical-align: top; font-weight: bold; text-align: center;">Περιοχή μέτρησης<br />
+      </td>
+      <td style="vertical-align: top; font-weight: bold; text-align: center;">Ημ/νια-ώρα<br />
+&nbsp;μέτρησης<br />
+      </td>
+      <td style="vertical-align: top; font-weight: bold; text-align: center;">Υψόμετρο<br />
+      </td>
+      <td style="vertical-align: top; font-weight: bold; text-align: center;">Θερμοκρασία<br />
+      </td>
+      <td style="vertical-align: top; font-weight: bold; text-align: center;">Υγρασία<br />
+      </td>
+      <td style="vertical-align: top; font-weight: bold; text-align: center;">Ατμ. πίεση<br />
+      </td>
+      <td style="vertical-align: top; font-weight: bold; text-align: center;">Αρχείο csv<br />
+      </td>
+      <td style="vertical-align: top; font-weight: bold; text-align: center;">Γράφημα<br />
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><img style="width: 220px; height: 440px;" alt="loca" src="photos/Screenshot_20200724-170919.png" /><br />
+      </td>
+      <td style="vertical-align: top;"><br />
+      </td>
+      <td style="vertical-align: top;"><br />
+      </td>
+      <td style="vertical-align: top;"><br />
+      </td>
+      <td style="vertical-align: top;"><br />
+      </td>
+      <td style="vertical-align: top;"><br />
+      </td>
+      <td style="vertical-align: top;"><br />
+      </td>
+      <td style="vertical-align: top;"><br />
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><img style="width: 220px; height: 440px;" alt="locb" src="photos/Screenshot_20200724-171000.png" /><br />
+      </td>
+      <td style="vertical-align: top;"><br />
+      </td>
+      <td style="vertical-align: top;"><br />
+      </td>
+      <td style="vertical-align: top;"><br />
+      </td>
+      <td style="vertical-align: top;"><br />
+      </td>
+      <td style="vertical-align: top;"><br />
+      </td>
+      <td style="vertical-align: top;"><br />
+      </td>
+      <td style="vertical-align: top;"><br />
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><img style="width: 220px; height: 440px;" alt="locc" src="photos/Screenshot_20200724-171102.png" /><br />
+      </td>
+      <td style="vertical-align: top;"><br />
+      </td>
+      <td style="vertical-align: top;"><br />
+      </td>
+      <td style="vertical-align: top;"><br />
+      </td>
+      <td style="vertical-align: top;"><br />
+      </td>
+      <td style="vertical-align: top;"><br />
+      </td>
+      <td style="vertical-align: top;"><br />
+      </td>
+      <td style="vertical-align: top;"><br />
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br />
+</div>
 </div>
 
 </body></html>
