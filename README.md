@@ -4,6 +4,7 @@
 
 
 
+
   
   <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 
@@ -278,7 +279,7 @@
 εώς 85</span><span style="font-size: 12pt; color: rgb(0, 0, 0); vertical-align: super;">ο</span><span style="font-size: 12pt; color: rgb(0, 0, 0);">C)
 .</span></li>
 </ul>
-</span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span>
+</span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span>
 <h1 style="text-decoration: underline;"><font><font><font><font><font><font><font color="#000000"><font style="font-size: 12pt;" size="3">Τρόπος
 σύνδεσης με το Arduino (εικόνα απο το
 Fritzing)</font></font></font></font></font></font></font></font></h1>
@@ -426,7 +427,7 @@ Organic Compound) εντός εύρους από 0 έως 1187 μέρη ανά �
 <span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);">
 <br />
 <br />
-</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span></span></span></span></span>
+</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span></span></span></span>
 <h1 style="text-decoration: underline;"><font><font><font><font><font><font><font color="#000000"><font style="font-size: 12pt;" size="3">Το πρόγραμμα στο mblock<br />
 </font></font></font></font></font></font></font></font></h1>
 <img style="width: 712px; height: 505px;" alt="mq131" src="/images/mq131%20final%20working.png" /><br />
@@ -445,7 +446,7 @@ Fritzing)</font></font></h1><img style="width: 1000px; height: 701px;" alt="sd" 
 </span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);">
 <h2><small><small><big><big><big><small><small><span style="font-size: 12pt; color: rgb(0, 0, 0);"><big><big><big><span style="font-weight: bold; text-decoration: underline;">Φωτογραφίες<br />
 </span></big></big></big></span></small></small></big></big></big></small></small></h2>
-<span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
+<span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span></span></span></span></span></span>
 <h1 style="text-decoration: underline;"><font><font><font color="#000000"><font style="font-size: 12pt;" size="3">Η διαδικασία κατασκευής και προγραμματισμού<br />
 </font></font></font></font></h1>
 <br />
@@ -493,51 +494,51 @@ Fritzing)</font></font></h1><img style="width: 1000px; height: 701px;" alt="sd" 
       <td style="vertical-align: top;"><img style="width: 250px; height: 333px;" alt="im26" src="photos/IMG_20200306_150749.jpg" /></td>
     </tr>
     <tr>
-      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 400px; height: 300px;" alt="im1" src="photos/IMG_20200221_145031.jpg" /></span></span>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 400px; height: 300px;" alt="im27" src="photos/IMG_20200221_145031.jpg" /></span></span>
       </td>
-      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 400px; height: 300px;" alt="im1" src="photos/IMG_20200221_145041.jpg" /></span></span>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 400px; height: 300px;" alt="im28" src="photos/IMG_20200221_145041.jpg" /></span></span>
       </td>
-      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 400px; height: 300px;" alt="im1" src="photos/IMG_20200221_145049.jpg" /></span></span>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 400px; height: 300px;" alt="im29" src="photos/IMG_20200221_145049.jpg" /></span></span>
       </td>
     </tr>
     <tr>
-      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 400px; height: 300px;" alt="im1" src="photos/IMG_20200221_145057.jpg" /></span></span>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 400px; height: 300px;" alt="im30" src="photos/IMG_20200221_145057.jpg" /></span></span>
       </td>
-      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 400px; height: 300px;" alt="im1" src="photos/IMG_20200221_145103.jpg" /></span></span>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 400px; height: 300px;" alt="im31" src="photos/IMG_20200221_145103.jpg" /></span></span>
       </td>
-      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im1" src="photos/IMG_20200221_145150.jpg" /></span></span>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im32" src="photos/IMG_20200221_145150.jpg" /></span></span>
       </td>
     </tr>
   </tbody>
 </table>
 <span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><br />
-</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span></span></span></span></span></span>
+</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span></span></span></span></span>
 <h1 style="text-decoration: underline;"><font><font><font color="#000000"><font style="font-size: 12pt;" size="3">Η τελική κατασκευή</font></font></font></font></h1>
-<br />
+
 <table style="text-align: left; width: 100%;" border="1" cellpadding="2" cellspacing="2">
   <tbody>
     <tr>
-      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im1" src="photos/IMG_20200721_114752.jpg" /></span></span>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im33" src="photos/IMG_20200721_114752.jpg" /></span></span>
       </td>
-      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im1" src="photos/IMG_20200721_120545.jpg" /></span></span></span></span></span>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im34" src="photos/IMG_20200721_120545.jpg" /></span></span></span></span></span>
       </td>
-      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im1" src="photos/IMG_20200722_174813.jpg" /></span></span></span></span></span>
-      </td>
-      
-      
-    </tr>
-    <tr>
-      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im1" src="photos/IMG_20200722_174827.jpg" /></span></span></span></span></span>
-      </td>
-      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im1" src="photos/IMG_20200723_140644.jpg" /></span></span></span></span></span>
-      </td>
-      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im1" src="photos/IMG_20200723_140653.jpg" /></span></span></span></span></span>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im35" src="photos/IMG_20200722_174813.jpg" /></span></span></span></span></span>
       </td>
       
       
     </tr>
     <tr>
-      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im1" src="photos/IMG_20200723_140719.jpg" /></span></span></span></span></span>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im36" src="photos/IMG_20200722_174827.jpg" /></span></span></span></span></span>
+      </td>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im37" src="photos/IMG_20200723_140644.jpg" /></span></span></span></span></span>
+      </td>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im38" src="photos/IMG_20200723_140653.jpg" /></span></span></span></span></span>
+      </td>
+      
+      
+    </tr>
+    <tr>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im39" src="photos/IMG_20200723_140719.jpg" /></span></span></span></span></span>
       </td>
       <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><br />
 </span></span></span></span></span>
@@ -552,7 +553,7 @@ Fritzing)</font></font></h1><img style="width: 1000px; height: 701px;" alt="sd" 
 </table>
 <br />
 <br />
-</span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);" />
+</span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);">
 <h2><small><small><big><big><big><small><small><big><big><big><small><small><big><big><big><small><small><span style="font-size: 12pt; color: rgb(0, 0, 0);"><big><big><big><span style="font-weight: bold; text-decoration: underline;">Μετρήσεις και Αποτελέσματα<br />
 </span></big></big></big></span></small></small></big></big></big></small></small></big></big></big></small></small></big></big></big></small></small></h2>
 Οι μετρήσεις που θα καταγραφούν μέσα στις κάρτες sd θα αποθηκευτούν σε
@@ -638,7 +639,7 @@ Fritzing)</font></font></h1><img style="width: 1000px; height: 701px;" alt="sd" 
   </tbody>
 </table>
 <br />
-</div>
+</span></span></span></span></span></div>
 </div>
 
 </body></html>
