@@ -7,6 +7,7 @@
 
 
 
+
   
   <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 
@@ -111,8 +112,15 @@
 <div style="text-align: center; font-family: Courier New,Courier,monospace;">
 <h3><big style="font-family: Times New Roman,Times,serif;"><big>Θα χρειαστεί να μεταφορτώσετε</big></big><br />
 </h3>
-<h3 style="text-align: left; font-family: Times New Roman,Times,serif;"><span style="font-weight: normal;">1) <a href="/libs-extensions/The%20airbot%20extension%20mblock%20Ver%201.mext">Τα blocks που δημιούργησε ο εκπαιδευτικός πληροφορικής για τον ευκολότερο προγραμματισμό σε mblock.</a></span><br />
-</h3>
+<h3 style="text-align: left; font-family: Times New Roman,Times,serif;"><span style="font-weight: normal;">1) <a href="/libs-extensions/The%20airbot%20extension%20mblock%20Ver%201.mext">Τα blocks που δημιούργησε ο εκπαιδευτικός πληροφορικής για τον ευκολότερο προγραμματισμό σε mblock.</a></span></h3>
+<div style="text-align: left;">&nbsp;&nbsp;&nbsp; <span style="font-weight: bold;">Τρόπος εγκατάστασης</span><br />
+&nbsp;&nbsp;&nbsp; <br />
+&nbsp;&nbsp;&nbsp; Αφού μεταφορτώσετε το plugin απο το προηγούενο link,
+ανοίξτε το mblock 5, βρείτε το αρχείο που μεταφορτώσατε και κάντε drag
+and drop μέσα στο ανοικτό πρόγραμμα mblock.<br />
+</div>
+<br />
+
 <h3 style="text-align: left;"><span style="font-weight: normal; font-family: Times New Roman,Times,serif;">2) <a href="/libs-extensions/arduino%20ide%20libraries.zip">Τις βιβλιοθήκες που θα χρησιμοποιήσουμε στο Arduino IDE.</a></span><br />
 </h3>
 <h3><big style="font-weight: bold;"><big><big>Θεωρητικό μέρος</big></big></big></h3>
@@ -280,8 +288,9 @@
 (από -40</span><span style="font-size: 12pt; color: rgb(0, 0, 0); vertical-align: super;">0</span><span style="font-size: 12pt; color: rgb(0, 0, 0);">C
 εώς 85</span><span style="font-size: 12pt; color: rgb(0, 0, 0); vertical-align: super;">ο</span><span style="font-size: 12pt; color: rgb(0, 0, 0);">C)
 .</span></li>
-</ul>
-</span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" />
+</ul>Βασική προϋπόθεση για να μπορέσουμε να πάρουμε σωστές μετρήσεις
+είναι να ρυθμίσουμε την τιμή της ατμοσφαιρικής πίεσης στο επίπεδο της
+θάλασσας. Μια ιστοσελίδα για να δούμε αυτές τις τιμές είναι η </span></span><a href="https://www.meteo.gr/yetosmaps.cfm">https://www.meteo.gr/yetosmaps.cfm</a>. Την τιμή αυτή την τοποθετούμε στο block initialize BME280.<span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);">
 <h1 style="text-decoration: underline;"><font><font><font><font><font><font><font color="#000000"><font style="font-size: 12pt;" size="3">Τρόπος
 σύνδεσης με το Arduino (εικόνα απο το
 Fritzing)</font></font></font></font></font></font></font></font></h1>
@@ -429,7 +438,7 @@ Organic Compound) εντός εύρους από 0 έως 1187 μέρη ανά �
 <span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);">
 <br />
 <br />
-</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span></span>
+</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span>
 <h1 style="text-decoration: underline;"><font><font><font><font><font><font><font color="#000000"><font style="font-size: 12pt;" size="3">Το πρόγραμμα στο mblock<br />
 </font></font></font></font></font></font></font></font></h1>
 <img style="width: 712px; height: 505px;" alt="mq131" src="/images/mq131%20final%20working.png" /><br />
@@ -448,7 +457,7 @@ Fritzing)</font></font></h1><img style="width: 1000px; height: 701px;" alt="sd" 
 </span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);">
 <h2><small><small><big><big><big><small><small><span style="font-size: 12pt; color: rgb(0, 0, 0);"><big><big><big><span style="font-weight: bold; text-decoration: underline;">Φωτογραφίες<br />
 </span></big></big></big></span></small></small></big></big></big></small></small></h2>
-<span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span></span></span></span>
+<span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span></span></span>
 <h1 style="text-decoration: underline;"><font><font><font color="#000000"><font style="font-size: 12pt;" size="3">Η διαδικασία κατασκευής και προγραμματισμού<br />
 </font></font></font></font></h1>
 <br />
@@ -513,7 +522,7 @@ Fritzing)</font></font></h1><img style="width: 1000px; height: 701px;" alt="sd" 
     </tr>
   </tbody>
 </table>
-<span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span></span></span>
+<span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span></span>
 <h1 style="text-decoration: underline;"><font><font><font color="#000000"><font style="font-size: 12pt;" size="3">Η τελική κατασκευή</font></font></font></font></h1>
 </span></span></span></span></span></span></span></span></span></span></span>
 <table style="text-align: left; width: 100%;" border="1" cellpadding="2" cellspacing="2">
@@ -624,7 +633,7 @@ Fritzing)</font></font></h1><img style="width: 1000px; height: 701px;" alt="sd" 
   </tbody>
 </table>
 <br />
-</span></span></span></span></span></span></span></span></span></span></span></span></span></div>
+</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></div>
 </div>
 
 </body></html>
