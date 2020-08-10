@@ -8,6 +8,10 @@
 
 
 
+
+
+
+
   
   <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 
@@ -17,7 +21,7 @@
 <div style="text-align: center;">&nbsp;<img style="width: 256px; height: 256px;" src="https://avatars0.githubusercontent.com/u/57757898?s=460&amp;v=4" alt="center" /> </div>
 </div>
 
-<pre style="font-family: Courier New,Courier,monospace;">	<h1 style="text-align: center;">Ανάλυση ατμοσφαιρικής ρύπανσης</h1><h1 style="text-align: center;">με δειγματοληπτικό έλεγχο</h1><h1 style="text-align: center;">(The Airbot project)</h1><h3><big>Σενάριο δραστηριότητας</big></h3>Αριθμός μαθητών: 9<br />Αριθμός Ομάδων: 3<br />Αριθμός ατόμων ανά ομάδα: 3<br />Είδος  δραστηριότητας: Ομαδοσυνεργατική<br />Ρόλοι: Δεν υπάρχουν διακριτοί ρόλοι στην ομάδα.<br />Ηλικιακή ομάδα: 12-15<br /><br /><h3><big>Φάση προετοιμασίας</big></h3>Οι μαθητές θα πρέπει να: <br />    • Διερευνήσουν στο διαδίκτυο και να ανακαλύψουν τους ρύπους της ατμόσφαιρας.<br />    • Συντάξουν ένα έντυπο όπου θα περιγράφουν τους σημαντικότερους ατμοσφαιρικούς ρύπους.<br />    • Να αναζητήσουν στο διαδίκτυο πληροφορίες για τους αισθητήρες που θα χρησιμοποιήσουμε.<br /><br /><h3><big>Φάση σχεδιασμού</big></h3>Οι μαθητές θα πρέπει να: <br />    • Να αναζητήσουν στο διαδίκτυο πληροφορίες για τη συνδεσμολογία των αισθητήρων με το Arduino.<br />    • Να αναζητήσουν στο διαδίκτυο πληροφορίες για τις προδιαγραφές των αισθητήρων.<br />    • Να δημιουργήσουν στο Fritzing τις παραπάνω συνδεσμολογίες.<br /><br /><br /><h3><big>Φάση υλοποίησης</big></h3>Οι μαθητές θα πρέπει να:<br />    • Δημιουργήσουν τις φυσικές συνδέσεις των υλικών τους με τους αισθητήρες.<br />    • Να προγραμματίσουν το Arduino χρησιμοποιώντας το περιβάλλον Mblock έτσι ώστε να παίρνουν τιμές από τους αισθητήρες.<br /><br /><h3><big>Φάση Δοκιμών</big></h3>Οι μαθητές θα πρέπει να:<br />    • Δοκιμάσουν τον εξοπλισμό τους και να επιβεβαιώσουν τη σωστή λειτουργία του.<br /><br /><br /><h3><big>Υλικά</big></h3><table style="width: 100%;" border="1">
+<pre style="font-family: Courier New,Courier,monospace;">	<h1 style="text-align: center;"><img style="width: 550px; height: 401px;" alt="air" src="images/the%20airbot%20project.png" /><br /></h1><h1 style="text-align: center;">Ανάλυση ατμοσφαιρικής ρύπανσης</h1><h1 style="text-align: center;">με δειγματοληπτικό έλεγχο</h1><h1 style="text-align: center;">(The Airbot project)</h1><h3><big>Σενάριο δραστηριότητας</big></h3>Αριθμός μαθητών: 9<br />Αριθμός Ομάδων: 3<br />Αριθμός ατόμων ανά ομάδα: 3<br />Είδος  δραστηριότητας: Ομαδοσυνεργατική<br />Ρόλοι: Δεν υπάρχουν διακριτοί ρόλοι στην ομάδα.<br />Ηλικιακή ομάδα: 12-15<br /><br /><h3><big>Φάση προετοιμασίας</big></h3>Οι μαθητές θα πρέπει να: <br />    • Διερευνήσουν στο διαδίκτυο και να ανακαλύψουν τους ρύπους της ατμόσφαιρας.<br />    • Συντάξουν ένα έντυπο όπου θα περιγράφουν τους σημαντικότερους ατμοσφαιρικούς ρύπους.<br />    • Να αναζητήσουν στο διαδίκτυο πληροφορίες για τους αισθητήρες που θα χρησιμοποιήσουμε.<br /><br /><h3><big>Φάση σχεδιασμού</big></h3>Οι μαθητές θα πρέπει να: <br />    • Να αναζητήσουν στο διαδίκτυο πληροφορίες για τη συνδεσμολογία των αισθητήρων με το Arduino.<br />    • Να αναζητήσουν στο διαδίκτυο πληροφορίες για τις προδιαγραφές των αισθητήρων.<br />    • Να δημιουργήσουν στο Fritzing τις παραπάνω συνδεσμολογίες.<br /><br /><br /><h3><big>Φάση υλοποίησης</big></h3>Οι μαθητές θα πρέπει να:<br />    • Δημιουργήσουν τις φυσικές συνδέσεις των υλικών τους με τους αισθητήρες.<br />    • Να προγραμματίσουν το Arduino χρησιμοποιώντας το περιβάλλον Mblock έτσι ώστε να παίρνουν τιμές από τους αισθητήρες.<br /><br /><h3><big>Φάση Δοκιμών</big></h3>Οι μαθητές θα πρέπει να:<br />    • Δοκιμάσουν τον εξοπλισμό τους και να επιβεβαιώσουν τη σωστή λειτουργία του.<br /><br /><br /><h3><big>Υλικά</big></h3><table style="width: 100%;" border="1">
   <tbody><tr>
     <th>ΠΟΣΟΤΗΤΑ</th>
     <th>ΕΙΔΟΣ</th>
@@ -290,7 +294,7 @@ and drop μέσα στο ανοικτό πρόγραμμα mblock.<br />
 .</span></li>
 </ul>Βασική προϋπόθεση για να μπορέσουμε να πάρουμε σωστές μετρήσεις
 είναι να ρυθμίσουμε την τιμή της ατμοσφαιρικής πίεσης στο επίπεδο της
-θάλασσας. Μια ιστοσελίδα για να δούμε αυτές τις τιμές είναι η </span></span><a href="https://www.meteo.gr/yetosmaps.cfm">https://www.meteo.gr/yetosmaps.cfm</a>. Την τιμή αυτή την τοποθετούμε στο block initialize BME280.<span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);">
+θάλασσας. Μια ιστοσελίδα για να δούμε αυτές τις τιμές είναι η </span></span><a href="https://www.meteo.gr/yetosmaps.cfm">https://www.meteo.gr/yetosmaps.cfm</a> ή&nbsp;<a href="https://www.worldweatheronline.com/chania-weather/crete/gr.aspx">https://www.worldweatheronline.com/chania-weather/crete/gr.aspx</a> . Την τιμή αυτή την τοποθετούμε στο block initialize BME280.<span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);">
 <h1 style="text-decoration: underline;"><font><font><font><font><font><font><font color="#000000"><font style="font-size: 12pt;" size="3">Τρόπος
 σύνδεσης με το Arduino (εικόνα απο το
 Fritzing)</font></font></font></font></font></font></font></font></h1>
@@ -438,7 +442,7 @@ Organic Compound) εντός εύρους από 0 έως 1187 μέρη ανά �
 <span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);">
 <br />
 <br />
-</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span>
+</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span>
 <h1 style="text-decoration: underline;"><font><font><font><font><font><font><font color="#000000"><font style="font-size: 12pt;" size="3">Το πρόγραμμα στο mblock<br />
 </font></font></font></font></font></font></font></font></h1>
 <img style="width: 712px; height: 505px;" alt="mq131" src="/images/mq131%20final%20working.png" /><br />
@@ -457,7 +461,7 @@ Fritzing)</font></font></h1><img style="width: 1000px; height: 701px;" alt="sd" 
 </span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);">
 <h2><small><small><big><big><big><small><small><span style="font-size: 12pt; color: rgb(0, 0, 0);"><big><big><big><span style="font-weight: bold; text-decoration: underline;">Φωτογραφίες<br />
 </span></big></big></big></span></small></small></big></big></big></small></small></h2>
-<span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span></span></span>
+<span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span>
 <h1 style="text-decoration: underline;"><font><font><font color="#000000"><font style="font-size: 12pt;" size="3">Η διαδικασία κατασκευής και προγραμματισμού<br />
 </font></font></font></font></h1>
 <br />
@@ -522,24 +526,24 @@ Fritzing)</font></font></h1><img style="width: 1000px; height: 701px;" alt="sd" 
     </tr>
   </tbody>
 </table>
-<span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span></span>
+<span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span>
 <h1 style="text-decoration: underline;"><font><font><font color="#000000"><font style="font-size: 12pt;" size="3">Η τελική κατασκευή</font></font></font></font></h1>
 </span></span></span></span></span></span></span></span></span></span></span>
 <table style="text-align: left; width: 100%;" border="1" cellpadding="2" cellspacing="2">
   <tbody>
     <tr>
-      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im33" src="photos/IMG_20200721_114752.jpg" /></span></span></span></span></span></span></span></span></span></span></span></span></span></td>
-      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im34" src="photos/IMG_20200721_120545.jpg" /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></td>
-      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im35" src="photos/IMG_20200722_174813.jpg" /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></td>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 400px; height: 300px;" alt="im33" src="photos/IMG_20200809_191616.jpg" /></span></span></span></span></span></span></span></span></span></span></span></span></span></td>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 400px; height: 300px;" alt="im34" src="photos/IMG_20200809_191620.jpg" /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></td>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 400px; height: 300px;" alt="im35" src="photos/IMG_20200809_191609.jpg" /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></td>
     </tr>
     <tr>
-      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im36" src="photos/IMG_20200722_174827.jpg" /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></td>
-      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im37" src="photos/IMG_20200723_140644.jpg" /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></td>
-      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im38" src="photos/IMG_20200723_140653.jpg" /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></td>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 400px; height: 300px;" alt="im36" src="photos/IMG_20200809_191601.jpg" /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></td>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 400px; height: 300px;" alt="im37" src="photos/IMG_20200809_191549.jpg" /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></td>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 400px; height: 300px;" alt="im38" src="photos/IMG_20200809_191543.jpg" /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></td>
     </tr>
     <tr>
-      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 250px; height: 333px;" alt="im39" src="photos/IMG_20200723_140719.jpg" /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></td>
-      <td style="vertical-align: top;"><br />
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><img style="width: 400px; height: 300px;" alt="im39" src="photos/IMG_20200809_191458.jpg" /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></td>
+      <td style="vertical-align: top;"><img style="width: 400px; height: 300px;" alt="im40" src="photos/IMG_20200809_191454.jpg" /><br />
       </td>
       <td style="vertical-align: top;"><br />
       </td>
@@ -565,75 +569,177 @@ Fritzing)</font></font></h1><img style="width: 1000px; height: 701px;" alt="sd" 
       </td>
       <td style="vertical-align: top; font-weight: bold; text-align: center;">Υψόμετρο<br />
       </td>
-      <td style="vertical-align: top; font-weight: bold; text-align: center;">Θερμοκρασία<br />
+      <td style="vertical-align: top; font-weight: bold; text-align: center;">M.O. Θερμοκρασίας<br />
       </td>
-      <td style="vertical-align: top; font-weight: bold; text-align: center;">Υγρασία<br />
+      <td style="vertical-align: top; font-weight: bold; text-align: center;">Μ.Ο. Υγρασίας<br />
       </td>
       <td style="vertical-align: top; font-weight: bold; text-align: center;">Ατμ. πίεση<br />
+Επ. θαλ.<br />
       </td>
-      <td style="vertical-align: top; font-weight: bold; text-align: center;">Αρχείο csv<br />
+      <td style="vertical-align: top; font-weight: bold; text-align: center;">Αρχεία ods<br />
       </td>
-      <td style="vertical-align: top; font-weight: bold; text-align: center;">Γράφημα<br />
-      </td>
-    </tr>
-    <tr>
-      <td style="vertical-align: top;"><img style="width: 220px; height: 440px;" alt="loca" src="photos/Screenshot_20200724-170919.png" /><br />
-      </td>
-      <td style="vertical-align: top;"><br />
-      </td>
-      <td style="vertical-align: top;"><br />
-      </td>
-      <td style="vertical-align: top;"><br />
-      </td>
-      <td style="vertical-align: top;"><br />
-      </td>
-      <td style="vertical-align: top;"><br />
-      </td>
-      <td style="vertical-align: top;"><br />
-      </td>
-      <td style="vertical-align: top;"><br />
+      <td style="vertical-align: top; font-weight: bold; text-align: center;">Γραφήματα<br />
+<br />
       </td>
     </tr>
     <tr>
-      <td style="vertical-align: top;"><img style="width: 220px; height: 440px;" alt="locb" src="photos/Screenshot_20200724-171000.png" /><br />
+      <td style="vertical-align: top; text-align: center;"><img style="width: 220px; height: 440px;" alt="loca" src="photos/Screenshot_20200724-170919.png" /><br />
+Περιοχή 1<br />
       </td>
-      <td style="vertical-align: top;"><br />
+      <td style="vertical-align: top; text-align: center;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);">30/7/2020<br />
+19:00 - 20:00</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
       </td>
-      <td style="vertical-align: top;"><br />
+      <td style="vertical-align: top; text-align: center;">427,5 μ<br />
       </td>
-      <td style="vertical-align: top;"><br />
+      <td style="vertical-align: top; text-align: center;">34<br />
       </td>
-      <td style="vertical-align: top;"><br />
+      <td style="vertical-align: top; text-align: center;">25,3<br />
       </td>
-      <td style="vertical-align: top;"><br />
+      <td style="vertical-align: top; text-align: center;">1014<br />
       </td>
-      <td style="vertical-align: top;"><br />
+      <td style="vertical-align: top;"><a href="csv/O3.ods">O3</a><br />
+      <a href="csv/DUST.ods">DUST</a><br />
+      <a href="csv/CCS811.ods">CO2-CO</a><br />
+      <a href="csv/BME280.zip">BME280</a><br />
       </td>
-      <td style="vertical-align: top;"><br />
+      <td style="vertical-align: top;"><img style="width: 500px; height: 289px;" alt="gr1" src="images/1.png" /><br />
+      <br />
+      <img style="width: 500px; height: 284px;" alt="gr2" src="images/2.png" /><br />
       </td>
     </tr>
     <tr>
-      <td style="vertical-align: top;"><img style="width: 220px; height: 440px;" alt="locc" src="photos/Screenshot_20200724-171102.png" /><br />
+      <td style="vertical-align: top; text-align: center;"><img style="width: 220px; height: 440px;" alt="locb" src="photos/Screenshot_20200724-171000.png" /><br />
+      <span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);">Περιοχή 2</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><br />
       </td>
-      <td style="vertical-align: top;"><br />
+      <td style="vertical-align: top; text-align: center;">07/08/2020<br />
+15:00 - 16:00<br />
       </td>
-      <td style="vertical-align: top;"><br />
+      <td style="vertical-align: top; text-align: center;">21 μ<br />
       </td>
-      <td style="vertical-align: top;"><br />
+      <td style="vertical-align: top; text-align: center;">30<br />
       </td>
-      <td style="vertical-align: top;"><br />
+      <td style="vertical-align: top; text-align: center;">50<br />
       </td>
-      <td style="vertical-align: top;"><br />
+      <td style="vertical-align: top; text-align: center;">1008,5<br />
       </td>
-      <td style="vertical-align: top;"><br />
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><br />
+</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
       </td>
-      <td style="vertical-align: top;"><br />
+      <td style="vertical-align: top;"><img style="width: 500px; height: 273px;" alt="gr3" src="images/3.png" /><br />
+      <img style="width: 500px; height: 279px;" alt="gr4" src="images/4..png" /><br />
       </td>
     </tr>
+    <tr>
+      <td style="vertical-align: top; text-align: center;"><img style="width: 220px; height: 440px;" alt="locc" src="photos/Screenshot_20200724-171102.png" /><br />
+      <span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);">Περιοχή 3</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><br />
+      </td>
+      <td style="vertical-align: top; text-align: center;">30/7/2020<br />
+22:00 - 23:00<br />
+      </td>
+      <td style="vertical-align: top; text-align: center;">49,4 μ<br />
+      </td>
+      <td style="vertical-align: top; text-align: center;">26,4<br />
+      </td>
+      <td style="vertical-align: top; text-align: center;">38,3<br />
+      </td>
+      <td style="vertical-align: top; text-align: center;">1014<br />
+      </td>
+      <td style="vertical-align: top;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><br />
+</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span>
+      </td>
+      <td style="vertical-align: top; text-align: center;"><span style="font-weight: bold;">Πίνακες με τις κλίμακες των τιμών</span><br />
+      <br />
+CO<br />
+      <img style="width: 500px; height: 224px;" alt="t1" src="images/co.png" /><br />
+CO2<br />
+      <img style="width: 500px; height: 61px;" alt="t2" src="images/co2.png" /><br />
+      </td>
+    </tr><tr>
+      <td style="vertical-align: top; text-align: center;"><img style="width: 220px; height: 440px;" alt="locd" src="photos/Screenshot_20200810-222547.png" /><br />
+      <span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);">Περιοχή 4</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><br />
+      </td>
+      <td style="vertical-align: top; text-align: center;">5/8/2020<br />
+18:00 - 19:00<br />
+      </td>
+      <td style="vertical-align: top; text-align: center;">1 μ<br />
+      </td>
+      <td style="vertical-align: top; text-align: center;">30<br />
+      </td>
+      <td style="vertical-align: top; text-align: center;">60<br />
+      </td>
+      <td style="vertical-align: top; text-align: center;">1007,10<br />
+      </td>
+      <td style="vertical-align: top; text-align: center;"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><br />
+</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></td>
+      <td style="vertical-align: top; text-align: center;">O3<br />
+      <img style="width: 500px; height: 199px;" alt="t3" src="images/O3.png" /><br />
+Dust<br />
+      <img style="width: 500px; height: 162px;" alt="t4" src="images/dust.png" /><br />
+      </td>
+    </tr>
+
   </tbody>
 </table>
+</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><small><small><big><big><big><small><small><big><big><big><small><small><big><big><big><small><small><big><big><big><small><small><big><big><big><small><small><big><big><big><small><small><big><big><big><small><small><span style="font-size: 12pt; color: rgb(0, 0, 0);"><big><big><big><span style="font-weight: bold; text-decoration: underline;">Συμπεράσματα</span></big></big></big></span></small></small></big></big></big></small></small></big></big></big></small></small></big></big></big></small></small></big></big></big></small></small></big></big></big></small></small></big></big></big></small></small></big></big></big></small></small><br />
+<p style="margin-bottom: 0cm; line-height: 100%;">
+<font color="#000000"><font style="font-size: 12pt;" size="3">Με
+βάση τους πίνακες με τα στοιχεία που
+βρήκαμε στα παρακάτω άρθρα</font></font></p>
+
+<p style="margin-bottom: 0cm; line-height: 100%;"><font color="#000000"><font style="font-size: 12pt;" size="3"><a href="http://lap.physics.auth.gr/atmdiasp/simeiwseis/chapter2.pdf">http://lap.physics.auth.gr/atmdiasp/simeiwseis/chapter2.pdf</a>
+και</font></font></p>
+
+<p style="margin-bottom: 0cm; line-height: 100%;"><font color="#000000"><font style="font-size: 12pt;" size="3"><a href="https://gr.euronews.com/2019/11/18/metrontas-tis-sigkentrosis-c02-stin-atmosfaira">https://gr.euronews.com/2019/11/18/metrontas-tis-sigkentrosis-c02-stin-atmosfaira</a>
+</font></font>
+</p>
+
+<p style="margin-bottom: 0cm; line-height: 100%;"><font color="#000000"><font style="font-size: 12pt;" size="3">για
+τις φυσιολογικές τιμές των ρύπων που
+εξετάσαμε παρατηρούμε ότι οι τιμές και
+στις 4 περιοχές που εξετάσαμε κυμαίνονται
+εντός φυσιολογικών ορίων με μικρές
+διακυμάνσεις.</font></font></p>
+
+<p style="margin-bottom: 0cm; line-height: 100%;"><font color="#000000"><font style="font-size: 12pt;" size="3">Διαπιστώνουμε
+ότι οι τιμές του Όζοντος είναι αρκετά
+αυξημένες στην περιοχή 3 σε σχέση με τις
+άλλες τρεις περιοχές. Δεν γνωρίζουμε
+την αιτία. Ίσως ένας παράγοντας μπορεί
+να είναι ότι η περιοχή αυτή βρίσκετε
+πολύ κοντά στον κόλπο της Σούδας όπου
+γίνετε ελλιμενισμός πλοίων καθώς
+υπάρχουν και στρατιωτικές εγκαταστάσεις.
+Χωρίς όμως αυτό να γνωρίζουμε αν έχει
+κάποια σχέση.</font></font></p>
+
+<p style="margin-bottom: 0cm; line-height: 100%;"><font color="#000000"><font style="font-size: 12pt;" size="3">Επίσης
+προκύπτει το γεγονός οτι στην περιοχή
+1 όπου το υψόμετρο ήταν κατά πολύ
+μεγαλύτερο σε σχέση με τις άλλες περιοχές,
+το <span lang="en-US">CO </span>και το <span lang="en-US">CO2
+</span>είναι αυξημένα συγκριτικά. Αυτό
+ίσως προκύπτει λόγο της πτητικότητας
+των δύο αυτών μολυσματικών παραγόντων
+με αποτέλεσμα τη μεγαλύτερη συγκέντρωση
+τους σε μεγαλύτερο υψόμετρο.</font></font></p>
+
+<p style="margin-bottom: 0cm; line-height: 100%;"><font color="#000000"><font style="font-size: 12pt;" size="3">Θα
+πρέπει τέλος να τονίσουμε ότι όλο το
+πείραμα έγινε διαφορετικές μέρες, από
+ανθρώπους που δεν έχουν σχέσει με την
+επιστήμη της κλιματολογίας ή κάτι
+σχετικό, στα πλαίσια μιας σχολικής
+δραστηριότητας. Οπότε τα συμπεράσματα
+που αναφέραμε είναι εντελώς ερασιτεχνικά
+και για τις ανάγκες του πειράματος.</font></font></p>
+
+<span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><small><small><big><big><big><small><small><big><big><big><small><small><big><big><big><small><small><big><big><big><small><small><big><big><big><small><small><big><big><big><small><small><big><big><big><small><small><span style="font-size: 12pt; color: rgb(0, 0, 0);"><big><big><big><span style="font-weight: bold; text-decoration: underline;">Ομάδα εργασίας</span></big></big></big></span></small></small></big></big></big></small></small></big></big></big></small></small></big></big></big></small></small></big></big></big></small></small></big></big></big></small></small></big></big></big></small></small></big></big></big></small></small></span><br />
 <br />
-</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></div>
+<br />
+<br />
+</div>
 </div>
 
+<br />
+<span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);"><span style="font-size: 12pt; color: rgb(0, 0, 0);" /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><br />
 </body></html>
