@@ -10,6 +10,9 @@
 <div style="text-align: center;"><img class="aligncenter" style="width: 550px; height: 401px;" src="https://github.com/talos-robotics/Airbot/raw/master/images/the%20airbot%20project.png" alt="air"></div>
 <div style="text-align: center;"><img class="aligncenter" style="width:1000px; height: 800px;" src="https://github.com/talos-robotics/Airbot/blob/master/images/diakrisi20.png" alt="air"></div>
 
+# Δημοσίευση στον τύπο
+https://www.zarpanews.gr/chilia-mpravo-chaniotes-mathites-diakrithikan-se-panellinio-diagonismo-me-stathmo-metrisis-atmosfairikis-rypansis-photos/
+
 <h1 style="text-align: center;">&#913;&#957;&#940;&#955;&#965;&#963;&#951; &#945;&#964;&#956;&#959;&#963;&#966;&#945;&#953;&#961;&#953;&#954;&#942;&#962; &#961;&#973;&#960;&#945;&#957;&#963;&#951;&#962;</h1>
 <div style="text-align: center;">
 </div>
